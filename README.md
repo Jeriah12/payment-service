@@ -77,10 +77,7 @@ The service should now be accessible at http://localhost:7000
 **Process a payment**
 * Endpoint: POST /api/v1/payments
 * Description: Processes a payment for an order.
-  
-**Get order by ID** 
-* Endpoint: GET /api/v1/orders/{order_id}
-* Description: Retrieves order details.
+
   
 ## Testing
 Run unit tests using:
