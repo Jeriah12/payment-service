@@ -1,4 +1,4 @@
-# payment-Service
+# payment-service
 
 The **payment-service** manages the shopping cart, order placement, and order tracking functionalities within the e-commerce platform.
 
